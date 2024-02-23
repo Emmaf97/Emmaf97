@@ -13,8 +13,6 @@
 ![Playstation](https://img.shields.io/badge/Playstation-003791?style=flat&logo=playstation&logoColor=white) ![Switch](https://img.shields.io/badge/Switch-E60012?style=flat&logo=nintendo-switch&logoColor=white)
 
 ### 📫 How to reach me
-<!-- ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
