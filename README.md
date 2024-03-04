@@ -11,7 +11,7 @@
 ![Playstation](https://img.shields.io/badge/Playstation-003791?style=flat&logo=playstation&logoColor=white) ![Switch](https://img.shields.io/badge/Switch-E60012?style=flat&logo=nintendo-switch&logoColor=white)
 
 ### 📫 How to reach me
-<a href="https://www.linkedin.com/in//" rel="nofollow">LinkedIn</a>
+<a href="https://linkedin.com/in/emma-fahey-dev" rel="nofollow">LinkedIn</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
