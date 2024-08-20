@@ -1,5 +1,5 @@
 # 💫 Hey there 👋 I'm Emma.
-🔭 I’m currently working on Python module that incorporates Flask with SQL LITE database integration <br>🌱 I’m currently studying a Full stack Developer Diploma with University College Dublin Professional Academey(UCDPA)
+🔭 I’m currently working on Frameworks module that incorporates Django and Bootstrap with a Postgres database integration <br>🌱 I’m currently studying a Full stack Developer Diploma with University College Dublin Professional Academey(UCDPA)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Emmaf97&theme=dark&hide_border=true)<br/>
