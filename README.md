@@ -1,6 +1,6 @@
 
 # 💫 Hey there 👋 I'm Emma.
-I’m Emma, a developer with a passion for creativity and experience in both frontend and backend development across diverse tech stacks. Alongside coding, I love creating video games, where I get to explore interactive storytelling and game mechanics.
+I’m a developer with a passion for creativity and experience in both frontend and backend development across diverse tech stacks. Alongside coding, I love creating video games, where I get to explore interactive storytelling and game mechanics.
 <br>
 I also enjoy editing videos, which allows me to express my creativity through visual storytelling.
 <br>
